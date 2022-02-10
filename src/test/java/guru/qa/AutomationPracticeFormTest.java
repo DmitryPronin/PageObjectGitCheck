@@ -28,7 +28,7 @@ public class AutomationPracticeFormTest {
 
         Configuration.baseUrl = "https://demoqa.com";
         Configuration.assertionMode = SOFT;
-        Configuration.browserSize = "1920x1080";
+        Configuration.browserSize = "800x600";
         Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
         Configuration.browser = "chrome";
         Configuration.browserVersion = "92";
