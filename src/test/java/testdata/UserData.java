@@ -14,6 +14,6 @@ public class UserData {
     public static String city = "Delhi";
     public static String subject = "Math";
     public static String gender = "Male";
-    public static String hobby = "Sports";
+    public static String hobby = "Music";
     public static String path = "files/picture.jpeg";
 }
