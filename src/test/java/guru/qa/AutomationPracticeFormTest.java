@@ -31,7 +31,7 @@ public class AutomationPracticeFormTest {
         Configuration.browserSize = "800x600";
         Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
         Configuration.browser = "chrome";
-        Configuration.browserVersion = "95";
+        Configuration.browserVersion = "92";
 
 
 
